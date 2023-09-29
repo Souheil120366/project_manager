@@ -1,0 +1,19 @@
+h1 {
+	color: #9900FF;
+}
+
+.custom-width {
+    max-width: 1000px; /* Adjust this value as needed */
+}
+
+.italic-text {
+    font-style: italic;
+}
+
+.show-width {
+	max-width: 380px;
+}
+
+.show-bg-color {
+	background-color: #9FC5F8;
+}
